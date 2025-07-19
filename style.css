@@ -1,0 +1,45 @@
+header h1,h2{
+    text-align: center;
+}
+main img{
+    width: 800px;
+    height: 500px;
+    border: 7px dotted #923148;
+    
+}
+body{ 
+    background-color: rgba(238, 159, 159, 0.809);
+    text-align: center;
+    font-size: 30px;
+    color: #ca4362;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+footer{
+    background-color: #B2576C;
+    color: aliceblue; 
+}
+
+header{
+    background-color: #B2576C;
+    color: aliceblue;
+    height: 200px;
+}
+
+nav a{
+    background-color: #EEBAC6;
+    padding: 15px;
+    color: aliceblue;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 25px;
+
+}
+
+h2{
+    color: #923148;
+}
+
+p{
+    text-align: center;
+}
